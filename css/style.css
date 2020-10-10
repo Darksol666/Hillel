@@ -1,0 +1,31 @@
+h1 {
+	color: #4169E1;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.text-grey {
+	color: #708090;
+	font-size: 22px;
+}
+
+.text-column {
+	color: #708090;
+	font-size: 22px;
+}
+
+.text-white {
+	font-size: 22px;
+	background: #708090;
+	color: white;
+}
+
+.text-link {
+	font-size: 22px;
+	color: #708090;
+}
+
+.text-link a {
+	font-size: 22px;
+	color: #4169E1;
+}
